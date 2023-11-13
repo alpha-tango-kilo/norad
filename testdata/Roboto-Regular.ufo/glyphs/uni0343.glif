@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0343" format="1">
+  <unicode hex="0343"/>
+  <outline>
+    <component base="commaaccent" xOffset="-803" yOffset="1396"/>
+    <contour>
+      <point x="-611" y="1290" type="move" name="_marktop"/>
+    </contour>
+    <contour>
+      <point x="-611" y="1721" type="move" name="mkmktop"/>
+    </contour>
+  </outline>
+</glyph>

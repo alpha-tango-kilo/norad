@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2DF2" format="1">
+  <unicode hex="2DF2"/>
+  <outline>
+    <contour>
+      <point x="-522" y="1753" type="line"/>
+      <point x="-654" y="1753" type="line"/>
+      <point x="-654" y="1201" type="line"/>
+      <point x="-522" y="1201" type="line"/>
+    </contour>
+    <contour>
+      <point x="-230" y="1753" type="line"/>
+      <point x="-362" y="1753" type="line"/>
+      <point x="-362" y="1201" type="line"/>
+      <point x="-230" y="1201" type="line"/>
+    </contour>
+    <contour>
+      <point x="-846" y="1308" type="line"/>
+      <point x="-846" y="1201" type="line"/>
+      <point x="-263" y="1201" type="line"/>
+      <point x="-263" y="1308" type="line"/>
+    </contour>
+    <contour>
+      <point x="-814" y="1753" type="line"/>
+      <point x="-946" y="1753" type="line"/>
+      <point x="-946" y="1201" type="line"/>
+      <point x="-814" y="1201" type="line"/>
+    </contour>
+    <contour>
+      <point x="-588" y="1170" type="move" name="_marktop"/>
+    </contour>
+  </outline>
+</glyph>

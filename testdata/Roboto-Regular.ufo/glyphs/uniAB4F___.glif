@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniAB4F" format="1">
+  <advance width="1299"/>
+  <unicode hex="AB4F"/>
+  <outline>
+    <contour>
+      <point x="1279" y="645" type="line"/>
+      <point x="20" y="645" type="line"/>
+      <point x="20" y="485" type="line"/>
+      <point x="1279" y="485" type="line"/>
+    </contour>
+    <component base="uniAB4E" xOffset="82"/>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0315" format="1">
+  <unicode hex="0315"/>
+  <outline>
+    <component base="commaturnsupnosp" xScale="-1" yScale="-1" xOffset="-590" yOffset="2545"/>
+    <contour>
+      <point x="-82" y="1059" type="move" name="_marktop0315"/>
+    </contour>
+  </outline>
+</glyph>

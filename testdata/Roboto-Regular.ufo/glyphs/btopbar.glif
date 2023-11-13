@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="btopbar" format="1">
+  <advance width="1153"/>
+  <unicode hex="0183"/>
+  <outline>
+    <contour>
+      <point x="834" y="1536" type="line"/>
+      <point x="277" y="1536" type="line"/>
+      <point x="277" y="1376" type="line"/>
+      <point x="834" y="1376" type="line"/>
+    </contour>
+    <component base="b"/>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexsubnosp" format="1">
+  <unicode hex="032D"/>
+  <outline>
+    <component base="circumflex" xOffset="-1068" yOffset="-1657"/>
+    <contour>
+      <point x="-588" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="-588" y="0" type="move" name="_markbottom"/>
+    </contour>
+    <contour>
+      <point x="-588" y="-406" type="move" name="mkmkbottom_acc"/>
+    </contour>
+    <contour>
+      <point x="-588" y="0" type="move" name="_bottomu"/>
+    </contour>
+  </outline>
+</glyph>

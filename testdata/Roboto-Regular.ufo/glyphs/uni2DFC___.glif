@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2DFC" format="1">
+  <unicode hex="2DFC"/>
+  <outline>
+    <contour>
+      <point x="-613" y="1425" type="line"/>
+      <point x="-785" y="1425" type="line"/>
+      <point x="-785" y="1318" type="line"/>
+      <point x="-613" y="1318" type="line"/>
+    </contour>
+    <contour>
+      <point x="-764" y="1753" type="line"/>
+      <point x="-896" y="1753" type="line"/>
+      <point x="-896" y="1201" type="line"/>
+      <point x="-764" y="1201" type="line"/>
+    </contour>
+    <component base="uni0363" xOffset="150"/>
+    <contour>
+      <point x="-531" y="1170" type="move" name="_marktop"/>
+    </contour>
+  </outline>
+</glyph>

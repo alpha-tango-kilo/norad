@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni035C" format="1">
+  <unicode hex="035C"/>
+  <outline>
+    <component base="uni035D" yOffset="-1590"/>
+    <contour>
+      <point x="0" y="-40" type="move" name="_markbottom_dd"/>
+    </contour>
+  </outline>
+</glyph>

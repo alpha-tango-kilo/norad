@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1DDD" format="1">
+  <unicode hex="1DDD"/>
+  <outline>
+    <contour>
+      <point x="-654" y="1993" type="line"/>
+      <point x="-654" y="1201" type="line"/>
+      <point x="-522" y="1201" type="line"/>
+      <point x="-522" y="1993" type="line"/>
+    </contour>
+    <contour>
+      <point x="-588" y="1170" type="move" name="_marktop"/>
+    </contour>
+  </outline>
+</glyph>

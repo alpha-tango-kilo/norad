@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1E2F" format="1">
+  <advance width="680"/>
+  <unicode hex="1E2F"/>
+  <outline>
+    <component base="dotlessi" xOffset="80"/>
+    <component base="dieresisacutecomb.lc" xOffset="925"/>
+    <contour>
+      <point x="364" y="654" type="move" name="rhotichook"/>
+    </contour>
+    <contour>
+      <point x="337" y="1290" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="598" y="1290" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="337" y="1940" type="move" name="mkmktop_acc"/>
+    </contour>
+    <contour>
+      <point x="333" y="10" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

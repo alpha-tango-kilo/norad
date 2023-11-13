@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA740" format="1">
+  <advance width="1353"/>
+  <unicode hex="A740"/>
+  <outline>
+    <component base="K" xOffset="70"/>
+    <component base="crossbar" xOffset="-127" yOffset="470"/>
+  </outline>
+</glyph>

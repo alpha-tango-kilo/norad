@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tonefive" format="1">
+  <advance width="1154"/>
+  <unicode hex="01BC"/>
+  <outline>
+    <contour>
+      <point x="387" y="1456" type="line" name="hr00"/>
+      <point x="65" y="1456" type="line"/>
+      <point x="65" y="1275" type="line"/>
+      <point x="387" y="1275" type="line"/>
+    </contour>
+    <component base="five"/>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0354" format="1">
+  <unicode hex="0354"/>
+  <outline>
+    <component base="uni02F1" xOffset="-870"/>
+    <contour>
+      <point x="-563" y="-554" type="move" name="mkmkbottom_acc"/>
+    </contour>
+    <contour>
+      <point x="-563" y="0" type="move" name="_markbottom"/>
+    </contour>
+  </outline>
+</glyph>

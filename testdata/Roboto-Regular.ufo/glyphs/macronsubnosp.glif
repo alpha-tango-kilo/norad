@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macronsubnosp" format="1">
+  <unicode hex="0331"/>
+  <outline>
+    <component base="macron" xOffset="-1073" yOffset="-1600"/>
+    <contour>
+      <point x="-588" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="-588" y="0" type="move" name="_markbottom"/>
+    </contour>
+    <contour>
+      <point x="-588" y="-294" type="move" name="mkmkbottom_acc"/>
+    </contour>
+  </outline>
+</glyph>

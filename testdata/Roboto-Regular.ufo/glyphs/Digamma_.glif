@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Digamma" format="1">
+  <advance width="1128"/>
+  <unicode hex="03DC"/>
+  <outline>
+    <contour>
+      <point x="969" y="803" type="line" name="hr00"/>
+      <point x="803" y="803" type="line"/>
+      <point x="803" y="427" type="line"/>
+      <point x="969" y="427" type="line"/>
+    </contour>
+    <component base="F"/>
+  </outline>
+</glyph>

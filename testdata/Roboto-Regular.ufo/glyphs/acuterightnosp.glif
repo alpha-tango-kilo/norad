@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acuterightnosp" format="1">
+  <unicode hex="0341"/>
+  <outline>
+    <component base="acute" xOffset="-344"/>
+    <contour>
+      <point x="-105" y="1290" type="move" name="_marktop"/>
+    </contour>
+    <contour>
+      <point x="-105" y="1620" type="move" name="mkmktop"/>
+    </contour>
+  </outline>
+</glyph>

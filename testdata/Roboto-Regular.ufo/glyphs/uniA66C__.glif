@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA66C" format="1">
+  <advance width="2386"/>
+  <unicode hex="A66C"/>
+  <outline>
+    <component base="O"/>
+    <component base="dotnosp" xOffset="1294" yOffset="-634"/>
+    <component base="dotnosp" xOffset="2267" yOffset="-634"/>
+    <component base="O" xOffset="973"/>
+  </outline>
+</glyph>

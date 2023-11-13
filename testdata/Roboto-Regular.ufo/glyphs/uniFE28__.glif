@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFE28" format="1">
+  <unicode hex="FE28"/>
+  <outline>
+    <contour>
+      <point x="540" y="-104" type="line"/>
+      <point x="460" y="-181"/>
+      <point x="231" y="-279"/>
+      <point x="0" y="-279" type="curve"/>
+      <point x="0" y="-403" type="line"/>
+      <point x="326" y="-403"/>
+      <point x="591" y="-262"/>
+      <point x="701" y="-104" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

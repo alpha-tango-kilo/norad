@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tackleftsubnosp" format="1">
+  <unicode hex="0318"/>
+  <outline>
+    <contour>
+      <point x="-400" y="-60" type="line"/>
+      <point x="-550" y="-60" type="line"/>
+      <point x="-550" y="-446" type="line"/>
+      <point x="-400" y="-446" type="line"/>
+    </contour>
+    <contour>
+      <point x="-798" y="-183" type="line"/>
+      <point x="-798" y="-323" type="line"/>
+      <point x="-410" y="-323" type="line"/>
+      <point x="-410" y="-183" type="line"/>
+    </contour>
+    <contour>
+      <point x="-567" y="0" type="move" name="_markbottom"/>
+    </contour>
+    <contour>
+      <point x="-567" y="-446" type="move" name="mkmkbottom_acc"/>
+    </contour>
+  </outline>
+</glyph>

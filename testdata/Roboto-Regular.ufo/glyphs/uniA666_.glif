@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA666" format="1">
+  <advance width="2195"/>
+  <unicode hex="A666"/>
+  <outline>
+    <contour>
+      <point x="2165" y="1456" type="line"/>
+      <point x="1523" y="1456" type="line"/>
+      <point x="1523" y="1289" type="line"/>
+      <point x="2165" y="1289" type="line"/>
+    </contour>
+    <component base="M"/>
+  </outline>
+</glyph>

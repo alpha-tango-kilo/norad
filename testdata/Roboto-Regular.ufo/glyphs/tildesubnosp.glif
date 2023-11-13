@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildesubnosp" format="1">
+  <unicode hex="0330"/>
+  <outline>
+    <component base="tilde" xOffset="-1082" yOffset="-1620"/>
+    <contour>
+      <point x="-588" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="-588" y="0" type="move" name="_markbottom"/>
+    </contour>
+    <contour>
+      <point x="-588" y="-432" type="move" name="mkmkbottom_acc"/>
+    </contour>
+  </outline>
+</glyph>

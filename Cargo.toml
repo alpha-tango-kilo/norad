@@ -47,3 +47,7 @@ bench = false
 [[bench]]
 name = "glif_parse"
 harness = false
+
+[[bench]]
+name = "read_write_ufo"
+harness = false

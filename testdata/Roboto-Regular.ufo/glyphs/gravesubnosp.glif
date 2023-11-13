@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravesubnosp" format="1">
+  <unicode hex="0316"/>
+  <outline>
+    <component base="grave" xOffset="-873" yOffset="-1630"/>
+    <contour>
+      <point x="-583" y="-390" type="move" name="mkmkbottom_acc"/>
+    </contour>
+    <contour>
+      <point x="-583" y="0" type="move" name="_markbottom"/>
+    </contour>
+  </outline>
+</glyph>

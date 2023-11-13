@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2C69" format="1">
+  <advance width="1362"/>
+  <unicode hex="2C69"/>
+  <outline>
+    <contour>
+      <point x="1334" y="166" type="line" name="hr00"/>
+      <point x="1097" y="166" type="line"/>
+      <point x="1128" y="38" type="line"/>
+      <point x="1128" y="-358" type="line"/>
+      <point x="1334" y="-358" type="line"/>
+    </contour>
+    <component base="K"/>
+  </outline>
+</glyph>
